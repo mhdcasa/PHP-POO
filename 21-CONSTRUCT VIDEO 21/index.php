@@ -1,6 +1,10 @@
 <?php 
-	
+//Magic Method
 // CONTSRUCT KAN9DAR N AFFCIHEIR CHNO WAST MANHA BLA MA NDIR OBJET
+// Methode __construct k t hérita liya une fois ndir héritage l function parent
+
+//Destruct
+//Called When object is Destroyed
 
 
 
