@@ -16,11 +16,17 @@ class device{
 	public function __get($clr){
 		echo $this->test= $clr;
 	}
+
 }
 
 $iphone = new device();
 $iphone->ram 	= "30 GB";
-echo  $iphone->red;
+
+echo $iphone->red;
+
+
+
+
 
 
 
@@ -32,7 +38,8 @@ echo "</pre>";
 
 
 
-// SET KATRAJA3 LIYA VALEUR O LPROPRIETES LI KAYKONO JDAD 3LA LCLASS YA3NI KAN9DAR N7AT 1 VALEUR JDID O SET KAT9BAL 2 PARAMETRES 
+// SET KATRAJA3 LIYA VALEUR O LPROPRIETES LI KAYKONO JDAD 3LA LCLASS YA3NI KAN9DAR N7AT 1 
+// Prorietes JDID O SET KAT9BAL 2 PARAMETRES 
 // LAWAL KAYKON HOWA LE NOM DYAL PARAMETRES 
 // TANI KAYKON VALEUR DYAL PARAMETRES
 

@@ -16,6 +16,7 @@
 $iphone = new device("mehdi");
 $iphone->ram="20GB";
 $iphone->methodNotFound("mehdi","bac");
+$iphone->methodNotFound1("mehdi","bac","sdksmlkdmlskd");
 echo "<pre>";
 print_r($iphone);
 echo "</pre>";
